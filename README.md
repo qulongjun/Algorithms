@@ -2,7 +2,7 @@
 
 [![build status](https://travis-ci.org/trekhleb/javascript-algorithms.svg?branch=master)](https://travis-ci.org/trekhleb/javascript-algorithms)
 
-本仓库包含了多种基于 Java 的算法与数据结构。
+本仓库包含了多种基于 Java 的算法与数据结构，相关示例见 [DEMO](https://github.com/qulongjun/Algorithms-DEMO) 。
 
 每种算法和数据结构都有自己的 README 并提供相关说明以及设计方案。
 
